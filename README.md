@@ -5,7 +5,7 @@
 ##### ▶ CHANGE MY USERNAME BOSSMODSZ TO YOUR USER NAME AND DEPLOY
 
 <p align="center">
-𝐓𝐀𝐔𝐑𝐔𝐒 𝐁𝐎𝐓
+ABHISHEK SER
 
 <p align="center">
 MADE WITH ❤︎ BY ABHISHEK
@@ -28,7 +28,7 @@ MADE WITH ❤︎ BY ABHISHEK
 </p>
        
   <p align="center">
-<a href="https://github.com/muhammed-userbot"><img title="Author" src="https://img.shields.io/badge/Author-muhammed-usrbot?color=B62EE0&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/BOSSMODZ-userbot"><img title="Author" src="https://img.shields.io/badge/Author-muhammed-usrbot?color=B62EE0&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
@@ -67,7 +67,7 @@ $ node Taurus.js
       
 ```js
 SETUP
-$ git clone https://github.com/I-AM-MUHAMMED/Taurus-Bot
+$ git clone https://github.com/BOSSMODZ/Taurus-Bot
 $ cd Taurus-Bot
 $ npm i
 $ node Taurus.js
@@ -75,7 +75,7 @@ $ node Taurus.js
 
 ----
   
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=I-AM-MUHAMMED&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=BOSSMODZ&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
   </div>
 
 
@@ -125,9 +125,9 @@ By establishing the Taurus-Bot, you are deemed to have accepted these responsibi
 ## Developers 
   <div align="center">
     
-  [![MUHAMMED](https://github.com/I-AM-MUHAMMED.png?size=100)](https://github.com/muhammed-usrbot) | [![TOXIDE-SER](https://github.com/TOXIDE-SER-444.png?size=100)](https://github.com/TOXIDE-SER-444) | [![TAURUS](https://github.com/taurus-x-toxide.png?size=100)](https://github.com/taurus-x-toxide) 
+  [![ABHISHEK SURESH](https://github.com/BOSSMODZ.png?size=100)](https://github.com/BOSSMODZ-usrbot) | [![TOXIDE-SER](https://github.com/TOXIDE-SER-444.png?size=100)](https://github.com/TOXIDE-SER-444) | [![TAURUS](https://github.com/taurus-x-toxide.png?size=100)](https://github.com/taurus-x-toxide) 
 ----|----|----
-[MUHAMMED](https://github.com/I-AM-MUHAMMED) | [TOXIDE-SER](https://github.com/TOXIDE-SER-444) | [TAURUS](https://github.com/taurus-x-toxide)
+[ABHISHEK SURESH](https://github.com/BOSSMODZ) | [TOXIDE-SER](https://github.com/TOXIDE-SER-444) | [TAURUS](https://github.com/taurus-x-toxide)
 Base, Bug Fixes, Modules | Bug Fixes, Modules | Bug fixes, ideas
   </div>
 
