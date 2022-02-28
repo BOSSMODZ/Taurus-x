@@ -1,14 +1,14 @@
 ##### ▶ IF YOU CAN'T DEPLOY CREATE [GITHUB ACCOUNT](github.com)
 
-##### ▶ THEN COPY THIS LINK https://heroku.com/deploy?template=https://github.com/I-AM-MUHAMMED/Taurus-x 
+##### ▶ THEN COPY THIS LINK https://heroku.com/deploy?template=https://github.com/BOSSMODSZ/Taurus-x 
 
-##### ▶ CHANGE MY USERNAME I-AM-MUHAMMED TO YOUR USER NAME AND DEPLOY
+##### ▶ CHANGE MY USERNAME BOSSMODSZ TO YOUR USER NAME AND DEPLOY
 
 <p align="center">
 𝐓𝐀𝐔𝐑𝐔𝐒 𝐁𝐎𝐓
 
 <p align="center">
-𝙼𝙰𝙳𝙴 𝚆𝙸𝚃𝙷 ❤︎ 𝙱𝚈 𝙼𝚄𝙷𝙰𝙼𝙼𝙴𝙳
+𝙼𝙰𝙳𝙴 𝚆𝙸𝚃𝙷 ❤︎ 𝙱𝚈 ABHISHEK
 
 ##
 <a href="https://bit.ly/3koZRGY"><img src="WLCME.png" alt="google-font" border="0"></a>
@@ -32,7 +32,7 @@
 </p>
 </div>
 <p align="center">
-ᴘʀᴏᴊᴇᴄᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ <a href="https://github.com/muhammed-usrbot">muhammed-usrbot</a>
+ᴘʀᴏᴊᴇᴄᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ <a href="https://github.com/BOSSMODSZ-usrbot">BOSSMODSZ-usrbot</a>
     <br>
        | © |
         Reserved |
