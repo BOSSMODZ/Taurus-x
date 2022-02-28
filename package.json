@@ -1,14 +1,14 @@
 {
-  "name": "TAURUS",
+  "name": "ABHISHEK SER",
   "version": "7.3.6",
-  "description": "TAURUS is the Modified Version of WhatsAsena, Made By @I-AM-MUHAMMED with Baileys.",
-  "main": "./Taurus-x/bot.js",
+  "description": "ABHISHEK SER is the Modified Version of WhatsAsena, Made By @BOSSMODZ with Baileys.",
+  "main": "./ABHISHEK SER-x/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/I-AM-MUHAMMED/Taurus-x.git"
+    "url": "git+https://github.com/BOSSMODZ/Taurus-x.git"
   },
   "keywords": [
     "whatsapp",
@@ -17,8 +17,8 @@
     "asena",
     "WhatsAsena"
   ],
-  "author": "Muhammed",
-  "developer": "@TOXIC-DEVIL / @I-AM-MUHAMMED",
+  "author": "ABHISHEK SURESH",
+  "developer": "@TOXIC-DEVIL / @BOSSMODZ",
   "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/farhan-dqz/Julie-Mwol/issues"
