@@ -229,7 +229,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                 }
                 else {
 
-                    await conn.sendMessage(conn.user.jid, '*TAURUS STARTED*', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '*ABHISHEK SER STARTED*', MessageType.text);
                 }
             }
         }
